@@ -1,0 +1,3504 @@
+{
+    "set1": [
+        {
+            "code": "19-3909 TCX",
+            "rgb": "rgb(46,39,42)",
+            "hex": "#2E272A",
+            "name": "Black Bean",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3911 TCX",
+            "rgb": "rgb(38,38,42)",
+            "hex": "#26262A",
+            "name": "Black Beauty",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3922 TCX",
+            "rgb": "rgb(38,41,52)",
+            "hex": "#262934",
+            "name": "Sky Captain",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4003 TCX",
+            "rgb": "rgb(43,39,43)",
+            "hex": "#2B272B",
+            "name": "Black Onyx",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4004 TCX",
+            "rgb": "rgb(42,43,45)",
+            "hex": "#2A2B2D",
+            "name": "Tap Shoe",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4006 TCX",
+            "rgb": "rgb(41,42,45)",
+            "hex": "#292A2D",
+            "name": "Caviar",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4007 TCX",
+            "rgb": "rgb(40,40,45)",
+            "hex": "#28282D",
+            "name": "Anthracite",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4008 TCX",
+            "rgb": "rgb(43,41,41)",
+            "hex": "#2B2929",
+            "name": "Meteorite",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5350 TCX",
+            "rgb": "rgb(35,49,45)",
+            "hex": "#23312D",
+            "name": "Scarab",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5708 TCX",
+            "rgb": "rgb(38,44,42)",
+            "hex": "#262C2A",
+            "name": "Jet Set",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4038 TCX",
+            "rgb": "rgb(18,56,80)",
+            "hex": "#123850",
+            "name": "Gibraltar Sea",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4034 TCX",
+            "rgb": "rgb(14,58,83)",
+            "hex": "#0E3A53",
+            "name": "Sailor Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4120 TCX",
+            "rgb": "rgb(15,59,87)",
+            "hex": "#0F3B57",
+            "name": "Blue Opal",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3952 TCX",
+            "rgb": "rgb(32,60,127)",
+            "hex": "#203C7F",
+            "name": "Surf the Web",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3864 TCX",
+            "rgb": "rgb(39,60,118)",
+            "hex": "#273C76",
+            "name": "Mazarine Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3951 TCX",
+            "rgb": "rgb(54,59,124)",
+            "hex": "#363B7C",
+            "name": "Clematis Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4045 TCX",
+            "rgb": "rgb(0,75,141)",
+            "hex": "#004B8D",
+            "name": "Lapis Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4049 TPX",
+            "rgb": "rgb(0,77,140)",
+            "hex": "#004D8C",
+            "name": "Snorkel Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4049 TCX",
+            "rgb": "rgb(3,79,132)",
+            "hex": "#034F84",
+            "name": "Snorkel Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4050 TPX",
+            "rgb": "rgb(22,77,143)",
+            "hex": "#164D8F",
+            "name": "Nautical Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3949 TPX",
+            "rgb": "rgb(46,77,167)",
+            "hex": "#2E4DA7",
+            "name": "Dazzling Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4050 TCX",
+            "rgb": "rgb(26,80,145)",
+            "hex": "#1A5091",
+            "name": "Nautical Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4052 TCX",
+            "rgb": "rgb(15,76,129)",
+            "hex": "#0F4C81",
+            "name": "Classic Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4056 TCX",
+            "rgb": "rgb(26,76,139)",
+            "hex": "#1A4C8B",
+            "name": "Blue Iolite",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4052 TPX",
+            "rgb": "rgb(29,78,137)",
+            "hex": "#1D4E89",
+            "name": "Classic Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3949 TCX",
+            "rgb": "rgb(56,80,160)",
+            "hex": "#3850A0",
+            "name": "Dazzling Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3864 TPX",
+            "rgb": "rgb(50,63,122)",
+            "hex": "#323F7A",
+            "name": "Mazarine Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3952 TPX",
+            "rgb": "rgb(47,62,134)",
+            "hex": "#2F3E86",
+            "name": "Surf the Web",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4044 TPX",
+            "rgb": "rgb(44,69,120)",
+            "hex": "#2C4578",
+            "name": "Limoges",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4150 TCX",
+            "rgb": "rgb(0,83,156)",
+            "hex": "#00539C",
+            "name": "Princess Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4151 TCX",
+            "rgb": "rgb(0,88,155)",
+            "hex": "#00589B",
+            "name": "Skydiver",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4245 TPX",
+            "rgb": "rgb(0,89,154)",
+            "hex": "#00599A",
+            "name": "Imperial Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4148 TCX",
+            "rgb": "rgb(8,88,157)",
+            "hex": "#08589D",
+            "name": "Victoria Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4245 TCX",
+            "rgb": "rgb(0,90,146)",
+            "hex": "#005A92",
+            "name": "Imperial Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4150 TPX",
+            "rgb": "rgb(17,88,159)",
+            "hex": "#11589F",
+            "name": "Princess Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4053 TCX",
+            "rgb": "rgb(25,81,144)",
+            "hex": "#195190",
+            "name": "Turkish Sea",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3949 TPG",
+            "rgb": "rgb(62,85,171)",
+            "hex": "#3E55AB",
+            "name": "Dazzling Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4053 TPG",
+            "rgb": "rgb(55,89,152)",
+            "hex": "#375998",
+            "name": "Turkish Sea",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4053 TPX",
+            "rgb": "rgb(37,84,152)",
+            "hex": "#255498",
+            "name": "Turkish Sea",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4245 TN",
+            "rgb": "rgb(0,99,178)",
+            "hex": "#0063B2",
+            "name": "Electric Blue Lemonade",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4151 TPX",
+            "rgb": "rgb(0,92,159)",
+            "hex": "#005C9F",
+            "name": "Skydiver",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4244 TCX",
+            "rgb": "rgb(0,97,163)",
+            "hex": "#0061A3",
+            "name": "Directoire Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4045 TCX",
+            "rgb": "rgb(15,95,154)",
+            "hex": "#0F5F9A",
+            "name": "Daphne",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4045 TPX",
+            "rgb": "rgb(22,99,159)",
+            "hex": "#16639F",
+            "name": "Daphne",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4051 TCX",
+            "rgb": "rgb(31,93,160)",
+            "hex": "#1F5DA0",
+            "name": "Strong Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4148 TPX",
+            "rgb": "rgb(21,93,164)",
+            "hex": "#155DA4",
+            "name": "Victoria Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3945 TCX",
+            "rgb": "rgb(73,96,168)",
+            "hex": "#4960A8",
+            "name": "Amparo Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3945 TPG",
+            "rgb": "rgb(80,101,172)",
+            "hex": "#5065AC",
+            "name": "Amparo Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3945 TPX",
+            "rgb": "rgb(70,95,173)",
+            "hex": "#465FAD",
+            "name": "Amparo Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4048 TCX",
+            "rgb": "rgb(45,98,163)",
+            "hex": "#2D62A3",
+            "name": "Nebulas Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4051 TPG",
+            "rgb": "rgb(59,100,167)",
+            "hex": "#3B64A7",
+            "name": "Strong Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4051 TPX",
+            "rgb": "rgb(39,96,167)",
+            "hex": "#2760A7",
+            "name": "Strong Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4148 TPG",
+            "rgb": "rgb(50,99,164)",
+            "hex": "#3263A4",
+            "name": "Victoria Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4033 TCX",
+            "rgb": "rgb(18,57,85)",
+            "hex": "#123955",
+            "name": "Poseidon",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4049 TPG",
+            "rgb": "rgb(27,83,143)",
+            "hex": "#1B538F",
+            "name": "Snorkel Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4244 TPX",
+            "rgb": "rgb(0,103,173)",
+            "hex": "#0067AD",
+            "name": "Directoire Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4250 TPG",
+            "rgb": "rgb(0,111,175)",
+            "hex": "#006FAF",
+            "name": "Indigo Bunting",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4244 TPG",
+            "rgb": "rgb(4,106,170)",
+            "hex": "#046AAA",
+            "name": "Directoire Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4250 TCX",
+            "rgb": "rgb(0,108,169)",
+            "hex": "#006CA9",
+            "name": "Indigo Bunting",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4043 TCX",
+            "rgb": "rgb(52,108,176)",
+            "hex": "#346CB0",
+            "name": "Palace Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4043 TPX",
+            "rgb": "rgb(50,103,173)",
+            "hex": "#3267AD",
+            "name": "Palace Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4048 TPG",
+            "rgb": "rgb(63,105,170)",
+            "hex": "#3F69AA",
+            "name": "Nebulas Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5220 TCX",
+            "rgb": "rgb(18,64,60)",
+            "hex": "#12403C",
+            "name": "Botanical Garden",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5232 TCX",
+            "rgb": "rgb(21,70,62)",
+            "hex": "#15463E",
+            "name": "Rain Forest",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4057 TCX",
+            "rgb": "rgb(30,68,119)",
+            "hex": "#1E4477",
+            "name": "True Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4151 TPG",
+            "rgb": "rgb(31,96,158)",
+            "hex": "#1F609E",
+            "name": "Skydiver",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4245 TPG",
+            "rgb": "rgb(25,93,153)",
+            "hex": "#195D99",
+            "name": "Imperial Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4140 TCX",
+            "rgb": "rgb(0,114,181)",
+            "hex": "#0072B5",
+            "name": "French Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4247 TPG",
+            "rgb": "rgb(0,120,186)",
+            "hex": "#0078BA",
+            "name": "Brilliant Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4247 TPX",
+            "rgb": "rgb(0,120,190)",
+            "hex": "#0078BE",
+            "name": "Brilliant Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4247 TCX",
+            "rgb": "rgb(0,117,179)",
+            "hex": "#0075B3",
+            "name": "Brilliant Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4252 TCX",
+            "rgb": "rgb(0,119,179)",
+            "hex": "#0077B3",
+            "name": "Blue Aster",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4440 TCX",
+            "rgb": "rgb(0,117,175)",
+            "hex": "#0075AF",
+            "name": "Cloisonn\u00e9",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4140 TPX",
+            "rgb": "rgb(18,120,185)",
+            "hex": "#1278B9",
+            "name": "French Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5406 TCX",
+            "rgb": "rgb(33,54,49)",
+            "hex": "#213631",
+            "name": "Pine Grove",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5230 TCX",
+            "rgb": "rgb(24,74,69)",
+            "hex": "#184A45",
+            "name": "Forest Biome",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5414 TPX",
+            "rgb": "rgb(28,71,70)",
+            "hex": "#1C4746",
+            "name": "June Bug",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4252 TPG",
+            "rgb": "rgb(0,123,187)",
+            "hex": "#007BBB",
+            "name": "Blue Aster",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4252 TPX",
+            "rgb": "rgb(0,123,189)",
+            "hex": "#007BBD",
+            "name": "Blue Aster",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4245 TCX",
+            "rgb": "rgb(0,124,183)",
+            "hex": "#007CB7",
+            "name": "Ibiza Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4247 TCX",
+            "rgb": "rgb(0,123,178)",
+            "hex": "#007BB2",
+            "name": "Diva Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4330 TCX",
+            "rgb": "rgb(0,126,177)",
+            "hex": "#007EB1",
+            "name": "Swedish Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4440 TPG",
+            "rgb": "rgb(0,128,184)",
+            "hex": "#0080B8",
+            "name": "Cloisonn\u00e9",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4440 TPX",
+            "rgb": "rgb(0,129,188)",
+            "hex": "#0081BC",
+            "name": "Cloisonn\u00e9",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4535 TPX",
+            "rgb": "rgb(0,130,181)",
+            "hex": "#0082B5",
+            "name": "Blue Jewel",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5918 TCX",
+            "rgb": "rgb(46,61,48)",
+            "hex": "#2E3D30",
+            "name": "Mountain View",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4914 TPX",
+            "rgb": "rgb(23,73,80)",
+            "hex": "#174950",
+            "name": "Deep Teal",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5217 TCX",
+            "rgb": "rgb(3,84,83)",
+            "hex": "#035453",
+            "name": "Storm",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4524 TCX",
+            "rgb": "rgb(0,88,94)",
+            "hex": "#00585E",
+            "name": "Shaded Spruce",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4524 TPX",
+            "rgb": "rgb(0,89,96)",
+            "hex": "#005960",
+            "name": "Shaded Spruce",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4540 TCX",
+            "rgb": "rgb(0,82,101)",
+            "hex": "#005265",
+            "name": "Deep Lagoon",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4241 TCX",
+            "rgb": "rgb(15,78,103)",
+            "hex": "#0F4E67",
+            "name": "Moroccan Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4340 TCX",
+            "rgb": "rgb(0,88,113)",
+            "hex": "#005871",
+            "name": "Lyons Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4434 TCX",
+            "rgb": "rgb(0,87,128)",
+            "hex": "#005780",
+            "name": "Mykonos Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4231 TCX",
+            "rgb": "rgb(9,87,123)",
+            "hex": "#09577B",
+            "name": "Blue Sapphire",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4048 TCX",
+            "rgb": "rgb(21,81,135)",
+            "hex": "#155187",
+            "name": "Baleine Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4140 TPG",
+            "rgb": "rgb(48,120,180)",
+            "hex": "#3078B4",
+            "name": "French Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4141 TCX",
+            "rgb": "rgb(50,114,175)",
+            "hex": "#3272AF",
+            "name": "Campanula",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4141 TPX",
+            "rgb": "rgb(49,115,177)",
+            "hex": "#3173B1",
+            "name": "Campanula",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-6050 TCX",
+            "rgb": "rgb(38,78,54)",
+            "hex": "#264E36",
+            "name": "Eden",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-6311 TPX",
+            "rgb": "rgb(44,76,50)",
+            "hex": "#2C4C32",
+            "name": "Greener Pastures",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4914 TCX",
+            "rgb": "rgb(24,69,75)",
+            "hex": "#18454B",
+            "name": "Deep Teal",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5322 TCX",
+            "rgb": "rgb(0,95,86)",
+            "hex": "#005F56",
+            "name": "Alpine Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5322 TPX",
+            "rgb": "rgb(0,95,87)",
+            "hex": "#005F57",
+            "name": "Alpine Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5226 TCX",
+            "rgb": "rgb(0,91,93)",
+            "hex": "#005B5D",
+            "name": "Everglade",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4234 TCX",
+            "rgb": "rgb(11,83,105)",
+            "hex": "#0B5369",
+            "name": "Ink Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4922 TPX",
+            "rgb": "rgb(0,100,101)",
+            "hex": "#006465",
+            "name": "Teal Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5226 TPX",
+            "rgb": "rgb(0,97,98)",
+            "hex": "#006162",
+            "name": "Everglade",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4340 TPX",
+            "rgb": "rgb(0,94,120)",
+            "hex": "#005E78",
+            "name": "Lyons Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4342 TCX",
+            "rgb": "rgb(0,94,125)",
+            "hex": "#005E7D",
+            "name": "Seaport",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4535 TCX",
+            "rgb": "rgb(0,97,117)",
+            "hex": "#006175",
+            "name": "Ocean Depths",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4434 TPX",
+            "rgb": "rgb(0,91,136)",
+            "hex": "#005B88",
+            "name": "Mykonos Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4530 TCX",
+            "rgb": "rgb(0,99,128)",
+            "hex": "#006380",
+            "name": "Celestial",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4342 TPX",
+            "rgb": "rgb(0,95,130)",
+            "hex": "#005F82",
+            "name": "Seaport",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4434 TPG",
+            "rgb": "rgb(5,94,136)",
+            "hex": "#055E88",
+            "name": "Mykonos Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4330 TPX",
+            "rgb": "rgb(0,130,180)",
+            "hex": "#0082B4",
+            "name": "Swedish Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4537 TPG",
+            "rgb": "rgb(0,124,173)",
+            "hex": "#007CAD",
+            "name": "Methyl Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4537 TPX",
+            "rgb": "rgb(0,124,175)",
+            "hex": "#007CAF",
+            "name": "Methyl Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4245 TPG",
+            "rgb": "rgb(39,127,187)",
+            "hex": "#277FBB",
+            "name": "Ibiza Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5420 TCX",
+            "rgb": "rgb(17,87,74)",
+            "hex": "#11574A",
+            "name": "Evergreen",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5338 TCX",
+            "rgb": "rgb(0,107,84)",
+            "hex": "#006B54",
+            "name": "Ultramarine Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5845 TCX",
+            "rgb": "rgb(0,110,81)",
+            "hex": "#006E51",
+            "name": "Lush Meadow",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5424 TCX",
+            "rgb": "rgb(0,103,91)",
+            "hex": "#00675B",
+            "name": "Cadmium Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4922 TCX",
+            "rgb": "rgb(0,99,97)",
+            "hex": "#006361",
+            "name": "Teal Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5217 TPX",
+            "rgb": "rgb(12,94,92)",
+            "hex": "#0C5E5C",
+            "name": "Storm",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5025 TCX",
+            "rgb": "rgb(0,104,101)",
+            "hex": "#006865",
+            "name": "Quetzal Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5619 TPX",
+            "rgb": "rgb(0,107,100)",
+            "hex": "#006B64",
+            "name": "Tidepool",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4728 TCX",
+            "rgb": "rgb(0,101,110)",
+            "hex": "#00656E",
+            "name": "Harbor Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4834 TCX",
+            "rgb": "rgb(0,101,107)",
+            "hex": "#00656B",
+            "name": "Deep Lake",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4834 TPX",
+            "rgb": "rgb(0,100,107)",
+            "hex": "#00646B",
+            "name": "Deep Lake",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4535 TPX",
+            "rgb": "rgb(0,101,120)",
+            "hex": "#006578",
+            "name": "Ocean Depths",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4536 TCX",
+            "rgb": "rgb(0,99,124)",
+            "hex": "#00637C",
+            "name": "Crystal Teal",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4536 TPG",
+            "rgb": "rgb(0,104,131)",
+            "hex": "#006883",
+            "name": "Crystal Teal",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4432 TCX",
+            "rgb": "rgb(0,105,139)",
+            "hex": "#00698B",
+            "name": "Turkish Tile",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4432 TPX",
+            "rgb": "rgb(0,106,140)",
+            "hex": "#006A8C",
+            "name": "Turkish Tile",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4247 TPX",
+            "rgb": "rgb(0,131,193)",
+            "hex": "#0083C1",
+            "name": "Diva Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4247 TPG",
+            "rgb": "rgb(0,132,192)",
+            "hex": "#0084C0",
+            "name": "Diva Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4336 TCX",
+            "rgb": "rgb(0,132,189)",
+            "hex": "#0084BD",
+            "name": "Blithe",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4336 TPX",
+            "rgb": "rgb(0,139,195)",
+            "hex": "#008BC3",
+            "name": "Blithe",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4433 TPX",
+            "rgb": "rgb(0,138,194)",
+            "hex": "#008AC2",
+            "name": "Dresden Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4336 TPG",
+            "rgb": "rgb(40,136,190)",
+            "hex": "#2888BE",
+            "name": "Blithe",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4433 TPG",
+            "rgb": "rgb(0,138,192)",
+            "hex": "#008AC0",
+            "name": "Dresden Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4435 TCX",
+            "rgb": "rgb(0,140,193)",
+            "hex": "#008CC1",
+            "name": "Malibu Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-6030 TCX",
+            "rgb": "rgb(0,120,68)",
+            "hex": "#007844",
+            "name": "Jolly Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5420 TPX",
+            "rgb": "rgb(21,93,79)",
+            "hex": "#155D4F",
+            "name": "Evergreen",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5624 TCX",
+            "rgb": "rgb(0,110,91)",
+            "hex": "#006E5B",
+            "name": "Shady Glade",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4936 TCX",
+            "rgb": "rgb(0,109,112)",
+            "hex": "#006D70",
+            "name": "Fanfare",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5025 TPG",
+            "rgb": "rgb(0,110,109)",
+            "hex": "#006E6D",
+            "name": "Quetzal Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4329 TPX",
+            "rgb": "rgb(17,90,111)",
+            "hex": "#115A6F",
+            "name": "Corsair",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4630 TCX",
+            "rgb": "rgb(0,107,126)",
+            "hex": "#006B7E",
+            "name": "Tahitian Tide",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4432 TPG",
+            "rgb": "rgb(5,110,143)",
+            "hex": "#056E8F",
+            "name": "Turkish Tile",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4530 TPX",
+            "rgb": "rgb(6,107,139)",
+            "hex": "#066B8B",
+            "name": "Celestial",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4430 TPG",
+            "rgb": "rgb(0,116,147)",
+            "hex": "#007493",
+            "name": "Fjord Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4537 TCX",
+            "rgb": "rgb(0,116,168)",
+            "hex": "#0074A8",
+            "name": "Methyl Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4538 TCX",
+            "rgb": "rgb(0,120,167)",
+            "hex": "#0078A7",
+            "name": "Hawaiian Surf",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4435 TPX",
+            "rgb": "rgb(0,146,202)",
+            "hex": "#0092CA",
+            "name": "Malibu Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4540 TPX",
+            "rgb": "rgb(0,149,198)",
+            "hex": "#0095C6",
+            "name": "Hawaiian Ocean",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-6026 TCX",
+            "rgb": "rgb(18,103,74)",
+            "hex": "#12674A",
+            "name": "Verdant Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5338 TPX",
+            "rgb": "rgb(0,114,87)",
+            "hex": "#007257",
+            "name": "Ultramarine Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5633 TCX",
+            "rgb": "rgb(0,117,88)",
+            "hex": "#007558",
+            "name": "Bosphorus",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5424 TPX",
+            "rgb": "rgb(0,113,99)",
+            "hex": "#007163",
+            "name": "Cadmium Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5845 TPG",
+            "rgb": "rgb(0,117,93)",
+            "hex": "#00755D",
+            "name": "Lush Meadow",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5338 TPG",
+            "rgb": "rgb(0,119,98)",
+            "hex": "#007762",
+            "name": "Ultramarine Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5624 TPX",
+            "rgb": "rgb(0,117,96)",
+            "hex": "#007560",
+            "name": "Shady Glade",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4936 TPX",
+            "rgb": "rgb(0,113,115)",
+            "hex": "#007173",
+            "name": "Fanfare",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5020 TCX",
+            "rgb": "rgb(0,115,108)",
+            "hex": "#00736C",
+            "name": "Parasailing",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5020 TPX",
+            "rgb": "rgb(0,115,108)",
+            "hex": "#00736C",
+            "name": "Parasailing",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4728 TPX",
+            "rgb": "rgb(0,111,122)",
+            "hex": "#006F7A",
+            "name": "Harbor Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4936 TPG",
+            "rgb": "rgb(0,117,122)",
+            "hex": "#00757A",
+            "name": "Fanfare",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4535 TPG",
+            "rgb": "rgb(6,106,125)",
+            "hex": "#066A7D",
+            "name": "Ocean Depths",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4630 TPG",
+            "rgb": "rgb(0,114,134)",
+            "hex": "#007286",
+            "name": "Tahitian Tide",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4726 TPX",
+            "rgb": "rgb(0,119,132)",
+            "hex": "#007784",
+            "name": "Biscay Bay",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4430 TCX",
+            "rgb": "rgb(0,114,144)",
+            "hex": "#007290",
+            "name": "Fjord Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4528 TCX",
+            "rgb": "rgb(0,117,143)",
+            "hex": "#00758F",
+            "name": "Mosaic Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4528 TPX",
+            "rgb": "rgb(0,117,145)",
+            "hex": "#007591",
+            "name": "Mosaic Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4535 TCX",
+            "rgb": "rgb(0,123,170)",
+            "hex": "#007BAA",
+            "name": "Blue Jewel",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4538 TPG",
+            "rgb": "rgb(0,127,175)",
+            "hex": "#007FAF",
+            "name": "Hawaiian Surf",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-6153 TCX",
+            "rgb": "rgb(0,140,69)",
+            "hex": "#008C45",
+            "name": "Fern Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-6030 TPG",
+            "rgb": "rgb(0,128,79)",
+            "hex": "#00804F",
+            "name": "Jolly Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-6030 TPX",
+            "rgb": "rgb(0,127,74)",
+            "hex": "#007F4A",
+            "name": "Jolly Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5633 TPX",
+            "rgb": "rgb(0,126,94)",
+            "hex": "#007E5E",
+            "name": "Bosphorus",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5841 TCX",
+            "rgb": "rgb(0,125,96)",
+            "hex": "#007D60",
+            "name": "Pepper Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5528 TCX",
+            "rgb": "rgb(0,125,105)",
+            "hex": "#007D69",
+            "name": "Greenlake",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5619 TCX",
+            "rgb": "rgb(10,111,105)",
+            "hex": "#0A6F69",
+            "name": "Tidepool",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5528 TPX",
+            "rgb": "rgb(0,128,108)",
+            "hex": "#00806C",
+            "name": "Greenlake",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5020 TPG",
+            "rgb": "rgb(0,119,115)",
+            "hex": "#007773",
+            "name": "Parasailing",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5024 TCX",
+            "rgb": "rgb(0,127,124)",
+            "hex": "#007F7C",
+            "name": "Teal Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5128 TCX",
+            "rgb": "rgb(0,124,122)",
+            "hex": "#007C7A",
+            "name": "Blue Grass",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5128 TPG",
+            "rgb": "rgb(0,131,131)",
+            "hex": "#008383",
+            "name": "Blue Grass",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4733 TCX",
+            "rgb": "rgb(0,122,142)",
+            "hex": "#007A8E",
+            "name": "Enamel Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4733 TPX",
+            "rgb": "rgb(0,125,146)",
+            "hex": "#007D92",
+            "name": "Enamel Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4733 TPG",
+            "rgb": "rgb(0,127,149)",
+            "hex": "#007F95",
+            "name": "Enamel Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4525 TCX",
+            "rgb": "rgb(0,129,157)",
+            "hex": "#00819D",
+            "name": "Caribbean Sea",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4535 TPG",
+            "rgb": "rgb(0,134,181)",
+            "hex": "#0086B5",
+            "name": "Blue Jewel",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4433 TCX",
+            "rgb": "rgb(0,134,187)",
+            "hex": "#0086BB",
+            "name": "Dresden Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-6153 TPX",
+            "rgb": "rgb(0,146,70)",
+            "hex": "#009246",
+            "name": "Fern Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-6030 TPX",
+            "rgb": "rgb(0,135,79)",
+            "hex": "#00874F",
+            "name": "Jelly Bean",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-6030 TCX",
+            "rgb": "rgb(0,134,88)",
+            "hex": "#008658",
+            "name": "Jelly Bean",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-6030 TPG",
+            "rgb": "rgb(0,138,89)",
+            "hex": "#008A59",
+            "name": "Jelly Bean",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5841 TPX",
+            "rgb": "rgb(0,133,99)",
+            "hex": "#008563",
+            "name": "Pepper Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5734 TCX",
+            "rgb": "rgb(0,132,107)",
+            "hex": "#00846B",
+            "name": "Viridis",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5734 TPX",
+            "rgb": "rgb(0,133,105)",
+            "hex": "#008569",
+            "name": "Viridis",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5633 TPG",
+            "rgb": "rgb(10,128,102)",
+            "hex": "#0A8066",
+            "name": "Bosphorus",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5642 TCX",
+            "rgb": "rgb(0,135,99)",
+            "hex": "#008763",
+            "name": "Golf Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5841 TPG",
+            "rgb": "rgb(0,133,106)",
+            "hex": "#00856A",
+            "name": "Pepper Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5024 TPX",
+            "rgb": "rgb(0,128,126)",
+            "hex": "#00807E",
+            "name": "Teal Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5029 TCX",
+            "rgb": "rgb(0,131,129)",
+            "hex": "#008381",
+            "name": "Deep Peacock Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5430 TCX",
+            "rgb": "rgb(0,135,120)",
+            "hex": "#008778",
+            "name": "Alhambra",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5430 TPX",
+            "rgb": "rgb(0,135,117)",
+            "hex": "#008775",
+            "name": "Alhambra",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5128 TPX",
+            "rgb": "rgb(0,129,126)",
+            "hex": "#00817E",
+            "name": "Blue Grass",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5024 TPG",
+            "rgb": "rgb(7,130,130)",
+            "hex": "#078282",
+            "name": "Teal Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5025 TCX",
+            "rgb": "rgb(0,133,131)",
+            "hex": "#008583",
+            "name": "Navigate",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5025 TPX",
+            "rgb": "rgb(0,133,133)",
+            "hex": "#008585",
+            "name": "Navigate",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5029 TPX",
+            "rgb": "rgb(0,134,132)",
+            "hex": "#008684",
+            "name": "Deep Peacock Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5034 TCX",
+            "rgb": "rgb(0,134,132)",
+            "hex": "#008684",
+            "name": "Lapis",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4726 TCX",
+            "rgb": "rgb(9,121,136)",
+            "hex": "#097988",
+            "name": "Biscay Bay",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4930 TCX",
+            "rgb": "rgb(0,135,134)",
+            "hex": "#008786",
+            "name": "Tropical Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5025 TPG",
+            "rgb": "rgb(0,135,138)",
+            "hex": "#00878A",
+            "name": "Navigate",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5029 TPG",
+            "rgb": "rgb(0,136,137)",
+            "hex": "#008889",
+            "name": "Deep Peacock Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4735 TCX",
+            "rgb": "rgb(0,132,145)",
+            "hex": "#008491",
+            "name": "Tile Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4930 TPG",
+            "rgb": "rgb(0,139,140)",
+            "hex": "#008B8C",
+            "name": "Tropical Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4728 TCX",
+            "rgb": "rgb(0,133,156)",
+            "hex": "#00859C",
+            "name": "Algiers Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4728 TPX",
+            "rgb": "rgb(0,133,156)",
+            "hex": "#00859C",
+            "name": "Algiers Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4730 TCX",
+            "rgb": "rgb(0,132,159)",
+            "hex": "#00849F",
+            "name": "Caneel Bay",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4735 TCX",
+            "rgb": "rgb(0,135,153)",
+            "hex": "#008799",
+            "name": "Capri Breeze",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4928 TCX",
+            "rgb": "rgb(0,140,150)",
+            "hex": "#008C96",
+            "name": "Lake Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4528 TPG",
+            "rgb": "rgb(17,120,147)",
+            "hex": "#117893",
+            "name": "Mosaic Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4530 TCX",
+            "rgb": "rgb(0,132,161)",
+            "hex": "#0084A1",
+            "name": "Barrier Reef",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4728 TPG",
+            "rgb": "rgb(0,134,159)",
+            "hex": "#00869F",
+            "name": "Algiers Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4730 TPG",
+            "rgb": "rgb(0,134,163)",
+            "hex": "#0086A3",
+            "name": "Caneel Bay",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4730 TPX",
+            "rgb": "rgb(0,133,162)",
+            "hex": "#0085A2",
+            "name": "Caneel Bay",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4735 TPG",
+            "rgb": "rgb(0,138,160)",
+            "hex": "#008AA0",
+            "name": "Capri Breeze",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4735 TPX",
+            "rgb": "rgb(0,137,157)",
+            "hex": "#00899D",
+            "name": "Capri Breeze",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4525 TPG",
+            "rgb": "rgb(0,133,163)",
+            "hex": "#0085A3",
+            "name": "Caribbean Sea",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4525 TPX",
+            "rgb": "rgb(0,132,162)",
+            "hex": "#0084A2",
+            "name": "Caribbean Sea",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4432 TCX",
+            "rgb": "rgb(0,136,176)",
+            "hex": "#0088B0",
+            "name": "Vivid Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4432 TPG",
+            "rgb": "rgb(0,140,181)",
+            "hex": "#008CB5",
+            "name": "Vivid Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4440 TCX",
+            "rgb": "rgb(0,135,182)",
+            "hex": "#0087B6",
+            "name": "Blue Danube",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4440 TPG",
+            "rgb": "rgb(0,138,182)",
+            "hex": "#008AB6",
+            "name": "Blue Danube",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4440 TPX",
+            "rgb": "rgb(0,137,183)",
+            "hex": "#0089B7",
+            "name": "Blue Danube",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4436 TN",
+            "rgb": "rgb(0,137,185)",
+            "hex": "#0089B9",
+            "name": "Atomic Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-6153 TPG",
+            "rgb": "rgb(0,147,83)",
+            "hex": "#009353",
+            "name": "Fern Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5735 TCX",
+            "rgb": "rgb(0,140,105)",
+            "hex": "#008C69",
+            "name": "Parakeet",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5735 TPX",
+            "rgb": "rgb(0,146,106)",
+            "hex": "#00926A",
+            "name": "Parakeet",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5642 TPX",
+            "rgb": "rgb(0,144,105)",
+            "hex": "#009069",
+            "name": "Golf Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5735 TPG",
+            "rgb": "rgb(0,146,112)",
+            "hex": "#009270",
+            "name": "Parakeet",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5642 TPG",
+            "rgb": "rgb(0,145,112)",
+            "hex": "#009170",
+            "name": "Golf Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5330 TCX",
+            "rgb": "rgb(0,142,128)",
+            "hex": "#008E80",
+            "name": "Dynasty Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5633 TCX",
+            "rgb": "rgb(0,146,118)",
+            "hex": "#009276",
+            "name": "Deep Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5034 TPX",
+            "rgb": "rgb(0,140,138)",
+            "hex": "#008C8A",
+            "name": "Lapis",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5330 TPX",
+            "rgb": "rgb(0,148,131)",
+            "hex": "#009483",
+            "name": "Dynasty Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4930 TPX",
+            "rgb": "rgb(0,139,135)",
+            "hex": "#008B87",
+            "name": "Tropical Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5034 TPG",
+            "rgb": "rgb(0,141,143)",
+            "hex": "#008D8F",
+            "name": "Lapis",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5130 TCX",
+            "rgb": "rgb(0,146,136)",
+            "hex": "#009288",
+            "name": "Columbia",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5130 TPG",
+            "rgb": "rgb(0,148,141)",
+            "hex": "#00948D",
+            "name": "Columbia",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4928 TPG",
+            "rgb": "rgb(0,142,154)",
+            "hex": "#008E9A",
+            "name": "Lake Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4928 TPX",
+            "rgb": "rgb(0,141,151)",
+            "hex": "#008D97",
+            "name": "Lake Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4735 TPG",
+            "rgb": "rgb(0,141,155)",
+            "hex": "#008D9B",
+            "name": "Tile Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4735 TPX",
+            "rgb": "rgb(0,141,152)",
+            "hex": "#008D98",
+            "name": "Tile Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4530 TPG",
+            "rgb": "rgb(0,136,165)",
+            "hex": "#0088A5",
+            "name": "Barrier Reef",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4432 TPX",
+            "rgb": "rgb(0,140,183)",
+            "hex": "#008CB7",
+            "name": "Vivid Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4540 TCX",
+            "rgb": "rgb(0,141,185)",
+            "hex": "#008DB9",
+            "name": "Hawaiian Ocean",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4540 TPG",
+            "rgb": "rgb(0,154,201)",
+            "hex": "#009AC9",
+            "name": "Hawaiian Ocean",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5534 TCX",
+            "rgb": "rgb(0,155,92)",
+            "hex": "#009B5C",
+            "name": "Bright Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5534 TPX",
+            "rgb": "rgb(0,163,91)",
+            "hex": "#00A35B",
+            "name": "Bright Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5534 TPG",
+            "rgb": "rgb(0,164,102)",
+            "hex": "#00A466",
+            "name": "Bright Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5641 TCX",
+            "rgb": "rgb(0,148,115)",
+            "hex": "#009473",
+            "name": "Emerald",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5938 TCX",
+            "rgb": "rgb(0,161,112)",
+            "hex": "#00A170",
+            "name": "Mint",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5633 TPG",
+            "rgb": "rgb(0,148,125)",
+            "hex": "#00947D",
+            "name": "Deep Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5633 TPX",
+            "rgb": "rgb(0,149,118)",
+            "hex": "#009576",
+            "name": "Deep Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5641 TPX",
+            "rgb": "rgb(0,152,116)",
+            "hex": "#009874",
+            "name": "Emerald",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5936 TCX",
+            "rgb": "rgb(0,155,117)",
+            "hex": "#009B75",
+            "name": "Simply Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5937 TCX",
+            "rgb": "rgb(0,158,109)",
+            "hex": "#009E6D",
+            "name": "Deep Mint",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5641 TPG",
+            "rgb": "rgb(0,153,123)",
+            "hex": "#00997B",
+            "name": "Emerald",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5130 TPX",
+            "rgb": "rgb(0,149,138)",
+            "hex": "#00958A",
+            "name": "Columbia",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5330 TPG",
+            "rgb": "rgb(0,149,137)",
+            "hex": "#009589",
+            "name": "Dynasty Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5638 TCX",
+            "rgb": "rgb(0,158,130)",
+            "hex": "#009E82",
+            "name": "Vivid Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5335 TCX",
+            "rgb": "rgb(0,155,140)",
+            "hex": "#009B8C",
+            "name": "Spectra Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5126 TCX",
+            "rgb": "rgb(0,148,153)",
+            "hex": "#009499",
+            "name": "Viridian Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5126 TPG",
+            "rgb": "rgb(0,151,156)",
+            "hex": "#00979C",
+            "name": "Viridian Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5126 TPX",
+            "rgb": "rgb(0,150,152)",
+            "hex": "#009698",
+            "name": "Viridian Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5936 TPX",
+            "rgb": "rgb(0,157,117)",
+            "hex": "#009D75",
+            "name": "Simply Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5937 TPX",
+            "rgb": "rgb(0,165,113)",
+            "hex": "#00A571",
+            "name": "Deep Mint",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5932 TPX",
+            "rgb": "rgb(0,161,118)",
+            "hex": "#00A176",
+            "name": "Holly Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5937 TPG",
+            "rgb": "rgb(0,163,118)",
+            "hex": "#00A376",
+            "name": "Deep Mint",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5938 TPG",
+            "rgb": "rgb(0,167,121)",
+            "hex": "#00A779",
+            "name": "Mint",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5942 TCX",
+            "rgb": "rgb(0,167,118)",
+            "hex": "#00A776",
+            "name": "Blarney",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5421 TPX",
+            "rgb": "rgb(0,160,134)",
+            "hex": "#00A086",
+            "name": "Sea Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5638 TPG",
+            "rgb": "rgb(0,163,134)",
+            "hex": "#00A386",
+            "name": "Vivid Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5638 TPX",
+            "rgb": "rgb(0,163,127)",
+            "hex": "#00A37F",
+            "name": "Vivid Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5431 TCX",
+            "rgb": "rgb(0,167,139)",
+            "hex": "#00A78B",
+            "name": "Peacock Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5431 TPG",
+            "rgb": "rgb(0,168,142)",
+            "hex": "#00A88E",
+            "name": "Peacock Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5533 TCX",
+            "rgb": "rgb(0,162,138)",
+            "hex": "#00A28A",
+            "name": "Arcadia",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5533 TPX",
+            "rgb": "rgb(0,166,140)",
+            "hex": "#00A68C",
+            "name": "Arcadia",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5335 TPG",
+            "rgb": "rgb(0,158,146)",
+            "hex": "#009E92",
+            "name": "Spectra Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5335 TPX",
+            "rgb": "rgb(0,159,142)",
+            "hex": "#009F8E",
+            "name": "Spectra Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5533 TPG",
+            "rgb": "rgb(0,165,145)",
+            "hex": "#00A591",
+            "name": "Arcadia",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4834 TCX",
+            "rgb": "rgb(0,157,174)",
+            "hex": "#009DAE",
+            "name": "Bluebird",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4728 TCX",
+            "rgb": "rgb(0,160,176)",
+            "hex": "#00A0B0",
+            "name": "Peacock Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4834 TPG",
+            "rgb": "rgb(0,161,180)",
+            "hex": "#00A1B4",
+            "name": "Bluebird",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5127 TCX",
+            "rgb": "rgb(0,170,169)",
+            "hex": "#00AAA9",
+            "name": "Ceramic",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4728 TPG",
+            "rgb": "rgb(0,164,183)",
+            "hex": "#00A4B7",
+            "name": "Peacock Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4728 TPX",
+            "rgb": "rgb(0,164,180)",
+            "hex": "#00A4B4",
+            "name": "Peacock Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4834 TPX",
+            "rgb": "rgb(0,164,181)",
+            "hex": "#00A4B5",
+            "name": "Bluebird",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4529 TPX",
+            "rgb": "rgb(0,166,203)",
+            "hex": "#00A6CB",
+            "name": "Cyan Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4535 TCX",
+            "rgb": "rgb(0,177,210)",
+            "hex": "#00B1D2",
+            "name": "Blue Atoll",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6138 TPX",
+            "rgb": "rgb(25,157,92)",
+            "hex": "#199D5C",
+            "name": "Kelly Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5938 TPX",
+            "rgb": "rgb(0,171,120)",
+            "hex": "#00AB78",
+            "name": "Mint",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5942 TPG",
+            "rgb": "rgb(0,168,124)",
+            "hex": "#00A87C",
+            "name": "Blarney",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5932 TCX",
+            "rgb": "rgb(15,157,118)",
+            "hex": "#0F9D76",
+            "name": "Holly Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5942 TPX",
+            "rgb": "rgb(0,172,120)",
+            "hex": "#00AC78",
+            "name": "Blarney",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5431 TPX",
+            "rgb": "rgb(0,169,137)",
+            "hex": "#00A989",
+            "name": "Peacock Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5427 TCX",
+            "rgb": "rgb(0,170,146)",
+            "hex": "#00AA92",
+            "name": "Billiard",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5427 TPG",
+            "rgb": "rgb(0,174,153)",
+            "hex": "#00AE99",
+            "name": "Billiard",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5427 TPX",
+            "rgb": "rgb(0,175,149)",
+            "hex": "#00AF95",
+            "name": "Billiard",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5425 TCX",
+            "rgb": "rgb(0,175,159)",
+            "hex": "#00AF9F",
+            "name": "Atlantis",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5425 TPG",
+            "rgb": "rgb(0,179,163)",
+            "hex": "#00B3A3",
+            "name": "Atlantis",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5425 TPX",
+            "rgb": "rgb(0,181,161)",
+            "hex": "#00B5A1",
+            "name": "Atlantis",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5425 TCX",
+            "rgb": "rgb(0,175,157)",
+            "hex": "#00AF9D",
+            "name": "Pool Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5425 TPG",
+            "rgb": "rgb(0,177,158)",
+            "hex": "#00B19E",
+            "name": "Pool Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5425 TPX",
+            "rgb": "rgb(0,178,155)",
+            "hex": "#00B29B",
+            "name": "Pool Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5127 TPG",
+            "rgb": "rgb(0,173,173)",
+            "hex": "#00ADAD",
+            "name": "Ceramic",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5127 TPX",
+            "rgb": "rgb(0,175,172)",
+            "hex": "#00AFAC",
+            "name": "Ceramic",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4725 TCX",
+            "rgb": "rgb(0,171,192)",
+            "hex": "#00ABC0",
+            "name": "Scuba Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4725 TPG",
+            "rgb": "rgb(0,174,197)",
+            "hex": "#00AEC5",
+            "name": "Scuba Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4529 TCX",
+            "rgb": "rgb(20,163,199)",
+            "hex": "#14A3C7",
+            "name": "Cyan Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4725 TPX",
+            "rgb": "rgb(0,178,202)",
+            "hex": "#00B2CA",
+            "name": "Scuba Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4535 TPG",
+            "rgb": "rgb(0,181,215)",
+            "hex": "#00B5D7",
+            "name": "Blue Atoll",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4535 TPX",
+            "rgb": "rgb(0,182,217)",
+            "hex": "#00B6D9",
+            "name": "Blue Atoll",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6340 TCX",
+            "rgb": "rgb(57,168,69)",
+            "hex": "#39A845",
+            "name": "Classic Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6340 TPX",
+            "rgb": "rgb(50,177,65)",
+            "hex": "#32B141",
+            "name": "Classic Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6230 TN",
+            "rgb": "rgb(0,199,86)",
+            "hex": "#00C756",
+            "name": "Andean Toucan",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5728 TCX",
+            "rgb": "rgb(0,182,148)",
+            "hex": "#00B694",
+            "name": "Mint Leaf",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5728 TPX",
+            "rgb": "rgb(0,185,146)",
+            "hex": "#00B992",
+            "name": "Mint Leaf",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5421 TCX",
+            "rgb": "rgb(0,184,159)",
+            "hex": "#00B89F",
+            "name": "Aqua Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5728 TPG",
+            "rgb": "rgb(12,182,149)",
+            "hex": "#0CB695",
+            "name": "Mint Leaf",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5421 TPX",
+            "rgb": "rgb(0,188,161)",
+            "hex": "#00BCA1",
+            "name": "Aqua Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6340 TPG",
+            "rgb": "rgb(61,178,78)",
+            "hex": "#3DB24E",
+            "name": "Classic Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6240 TPX",
+            "rgb": "rgb(31,181,102)",
+            "hex": "#1FB566",
+            "name": "Island Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5932 TPG",
+            "rgb": "rgb(20,160,125)",
+            "hex": "#14A07D",
+            "name": "Holly Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5421 TPG",
+            "rgb": "rgb(28,186,164)",
+            "hex": "#1CBAA4",
+            "name": "Aqua Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6138 TCX",
+            "rgb": "rgb(51,156,94)",
+            "hex": "#339C5E",
+            "name": "Kelly Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6240 TCX",
+            "rgb": "rgb(43,174,102)",
+            "hex": "#2BAE66",
+            "name": "Island Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6240 TPG",
+            "rgb": "rgb(52,179,110)",
+            "hex": "#34B36E",
+            "name": "Island Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5930 TCX",
+            "rgb": "rgb(58,162,120)",
+            "hex": "#3AA278",
+            "name": "Ming Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5930 TPX",
+            "rgb": "rgb(49,165,117)",
+            "hex": "#31A575",
+            "name": "Ming Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5825 TPX",
+            "rgb": "rgb(51,173,138)",
+            "hex": "#33AD8A",
+            "name": "Gumdrop Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-4825 TPX",
+            "rgb": "rgb(42,189,199)",
+            "hex": "#2ABDC7",
+            "name": "Blue Curacao",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-4720 TPX",
+            "rgb": "rgb(59,179,208)",
+            "hex": "#3BB3D0",
+            "name": "River Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-4825 TCX",
+            "rgb": "rgb(50,190,204)",
+            "hex": "#32BECC",
+            "name": "Blue Curacao",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-4825 TPG",
+            "rgb": "rgb(54,186,198)",
+            "hex": "#36BAC6",
+            "name": "Blue Curacao",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4530 TCX",
+            "rgb": "rgb(60,173,212)",
+            "hex": "#3CADD4",
+            "name": "Aquarius",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4530 TPX",
+            "rgb": "rgb(54,176,216)",
+            "hex": "#36B0D8",
+            "name": "Aquarius",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-4720 TCX",
+            "rgb": "rgb(56,175,205)",
+            "hex": "#38AFCD",
+            "name": "River Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6444 TCX",
+            "rgb": "rgb(77,181,96)",
+            "hex": "#4DB560",
+            "name": "Poison Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6444 TPX",
+            "rgb": "rgb(73,185,96)",
+            "hex": "#49B960",
+            "name": "Poison Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "14-5721 TPX",
+            "rgb": "rgb(51,195,166)",
+            "hex": "#33C3A6",
+            "name": "Electric Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-6340 TCX",
+            "rgb": "rgb(69,190,118)",
+            "hex": "#45BE76",
+            "name": "Irish Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-6340 TPX",
+            "rgb": "rgb(64,197,117)",
+            "hex": "#40C575",
+            "name": "Irish Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-6340 TPG",
+            "rgb": "rgb(75,195,125)",
+            "hex": "#4BC37D",
+            "name": "Irish Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4011 TCX",
+            "rgb": "rgb(40,43,52)",
+            "hex": "#282B34",
+            "name": "Salute",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4020 TCX",
+            "rgb": "rgb(38,43,55)",
+            "hex": "#262B37",
+            "name": "Dark Sapphire",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3831 TCX",
+            "rgb": "rgb(39,41,61)",
+            "hex": "#27293D",
+            "name": "Maritime Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3963 TCX",
+            "rgb": "rgb(61,60,124)",
+            "hex": "#3D3C7C",
+            "name": "Spectrum Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3847 TCX",
+            "rgb": "rgb(68,55,125)",
+            "hex": "#44377D",
+            "name": "Deep Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3955 TCX",
+            "rgb": "rgb(61,66,139)",
+            "hex": "#3D428B",
+            "name": "Royal Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3955 TPX",
+            "rgb": "rgb(63,68,140)",
+            "hex": "#3F448C",
+            "name": "Royal Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3923 TCX",
+            "rgb": "rgb(40,45,60)",
+            "hex": "#282D3C",
+            "name": "Navy Blazer",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4012 TCX",
+            "rgb": "rgb(39,47,56)",
+            "hex": "#272F38",
+            "name": "Carbon",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3921 TPX",
+            "rgb": "rgb(38,49,69)",
+            "hex": "#263145",
+            "name": "Black Iris",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3940 TCX",
+            "rgb": "rgb(38,48,86)",
+            "hex": "#263056",
+            "name": "Blue Depths",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3953 TCX",
+            "rgb": "rgb(37,54,104)",
+            "hex": "#253668",
+            "name": "Sodalite Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4029 TCX",
+            "rgb": "rgb(34,58,94)",
+            "hex": "#223A5E",
+            "name": "Navy Peony",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3946 TPG",
+            "rgb": "rgb(90,105,175)",
+            "hex": "#5A69AF",
+            "name": "Baja Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3946 TPX",
+            "rgb": "rgb(82,101,176)",
+            "hex": "#5265B0",
+            "name": "Baja Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4024 TPX",
+            "rgb": "rgb(39,51,71)",
+            "hex": "#273347",
+            "name": "Dress Blues",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4027 TCX",
+            "rgb": "rgb(35,54,88)",
+            "hex": "#233658",
+            "name": "Estate Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3964 TCX",
+            "rgb": "rgb(39,67,116)",
+            "hex": "#274374",
+            "name": "Blue Quartz",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5320 TCX",
+            "rgb": "rgb(32,59,61)",
+            "hex": "#203B3D",
+            "name": "Ponderosa Pine",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4027 TPX",
+            "rgb": "rgb(37,54,89)",
+            "hex": "#253659",
+            "name": "Estate Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4057 TPX",
+            "rgb": "rgb(40,72,127)",
+            "hex": "#28487F",
+            "name": "True Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4326 TCX",
+            "rgb": "rgb(32,62,74)",
+            "hex": "#203E4A",
+            "name": "Reflecting Pond",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5320 TPX",
+            "rgb": "rgb(32,69,68)",
+            "hex": "#204544",
+            "name": "Ponderosa Pine",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5030 TCX",
+            "rgb": "rgb(37,68,69)",
+            "hex": "#254445",
+            "name": "Sea Moss",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4324 TCX",
+            "rgb": "rgb(31,73,91)",
+            "hex": "#1F495B",
+            "name": "Legion Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4044 TCX",
+            "rgb": "rgb(36,63,108)",
+            "hex": "#243F6C",
+            "name": "Limoges",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5414 TCX",
+            "rgb": "rgb(38,74,72)",
+            "hex": "#264A48",
+            "name": "June Bug",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4125 TCX",
+            "rgb": "rgb(39,67,87)",
+            "hex": "#274357",
+            "name": "Majolica Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4125 TPX",
+            "rgb": "rgb(39,67,87)",
+            "hex": "#274357",
+            "name": "Majolica Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4241 TPX",
+            "rgb": "rgb(28,79,105)",
+            "hex": "#1C4F69",
+            "name": "Moroccan Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4526 TCX",
+            "rgb": "rgb(27,83,102)",
+            "hex": "#1B5366",
+            "name": "Blue Coral",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4234 TPX",
+            "rgb": "rgb(22,87,111)",
+            "hex": "#16576F",
+            "name": "Ink Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4329 TCX",
+            "rgb": "rgb(24,87,108)",
+            "hex": "#18576C",
+            "name": "Corsair",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4231 TPX",
+            "rgb": "rgb(18,97,128)",
+            "hex": "#126180",
+            "name": "Blue Sapphire",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-6050 TPX",
+            "rgb": "rgb(44,83,60)",
+            "hex": "#2C533C",
+            "name": "Eden",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5220 TPX",
+            "rgb": "rgb(39,75,72)",
+            "hex": "#274B48",
+            "name": "Botanical Garden",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5725 TPX",
+            "rgb": "rgb(23,96,84)",
+            "hex": "#176054",
+            "name": "Galapagos Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4916 TCX",
+            "rgb": "rgb(31,89,92)",
+            "hex": "#1F595C",
+            "name": "Pacific",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4324 TPX",
+            "rgb": "rgb(37,78,98)",
+            "hex": "#254E62",
+            "name": "Legion Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4526 TPX",
+            "rgb": "rgb(24,88,105)",
+            "hex": "#185869",
+            "name": "Blue Coral",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4540 TPG",
+            "rgb": "rgb(24,94,111)",
+            "hex": "#185E6F",
+            "name": "Deep Lagoon",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4139 TPX",
+            "rgb": "rgb(69,138,198)",
+            "hex": "#458AC6",
+            "name": "Azure Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5315 TCX",
+            "rgb": "rgb(37,89,88)",
+            "hex": "#255958",
+            "name": "Bayberry",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5315 TPX",
+            "rgb": "rgb(38,92,89)",
+            "hex": "#265C59",
+            "name": "Bayberry",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4834 TPG",
+            "rgb": "rgb(16,105,114)",
+            "hex": "#106972",
+            "name": "Deep Lake",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-6026 TPX",
+            "rgb": "rgb(35,105,82)",
+            "hex": "#236952",
+            "name": "Verdant Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5226 TPG",
+            "rgb": "rgb(31,103,104)",
+            "hex": "#1F6768",
+            "name": "Everglade",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5424 TPG",
+            "rgb": "rgb(18,117,106)",
+            "hex": "#12756A",
+            "name": "Cadmium Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4225 TCX",
+            "rgb": "rgb(31,102,128)",
+            "hex": "#1F6680",
+            "name": "Saxony Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4334 TCX",
+            "rgb": "rgb(20,120,167)",
+            "hex": "#1478A7",
+            "name": "Mediterranian Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-6024 TCX",
+            "rgb": "rgb(31,115,73)",
+            "hex": "#1F7349",
+            "name": "Amazon",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-6024 TPX",
+            "rgb": "rgb(28,115,75)",
+            "hex": "#1C734B",
+            "name": "Amazon",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5620 TCX",
+            "rgb": "rgb(34,108,99)",
+            "hex": "#226C63",
+            "name": "Ivy",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-5121 TCX",
+            "rgb": "rgb(32,112,111)",
+            "hex": "#20706F",
+            "name": "Bayou",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4728 TPG",
+            "rgb": "rgb(22,115,126)",
+            "hex": "#16737E",
+            "name": "Harbor Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4427 TCX",
+            "rgb": "rgb(21,126,160)",
+            "hex": "#157EA0",
+            "name": "Bluejay",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-4334 TPX",
+            "rgb": "rgb(26,123,168)",
+            "hex": "#1A7BA8",
+            "name": "Mediterranian Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5528 TPG",
+            "rgb": "rgb(22,129,114)",
+            "hex": "#168172",
+            "name": "Greenlake",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5421 TCX",
+            "rgb": "rgb(16,135,128)",
+            "hex": "#108780",
+            "name": "Porcelain Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4724 TCX",
+            "rgb": "rgb(26,127,142)",
+            "hex": "#1A7F8E",
+            "name": "Pagoda Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4724 TPX",
+            "rgb": "rgb(18,129,145)",
+            "hex": "#128191",
+            "name": "Pagoda Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5734 TPG",
+            "rgb": "rgb(26,136,114)",
+            "hex": "#1A8872",
+            "name": "Viridis",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5421 TPX",
+            "rgb": "rgb(21,139,131)",
+            "hex": "#158B83",
+            "name": "Porcelain Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-4427 TPX",
+            "rgb": "rgb(27,133,168)",
+            "hex": "#1B85A8",
+            "name": "Bluejay",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-0145 TCX",
+            "rgb": "rgb(68,136,60)",
+            "hex": "#44883C",
+            "name": "Online Lime",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "17-5936 TPG",
+            "rgb": "rgb(19,156,122)",
+            "hex": "#139C7A",
+            "name": "Simply Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5421 TCX",
+            "rgb": "rgb(20,156,136)",
+            "hex": "#149C88",
+            "name": "Sea Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5123 TPX",
+            "rgb": "rgb(26,154,157)",
+            "hex": "#1A9A9D",
+            "name": "Baltic",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-5123 TCX",
+            "rgb": "rgb(39,157,159)",
+            "hex": "#279D9F",
+            "name": "Baltic",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4529 TPG",
+            "rgb": "rgb(35,163,199)",
+            "hex": "#23A3C7",
+            "name": "Cyan Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-4427 TPX",
+            "rgb": "rgb(40,163,196)",
+            "hex": "#28A3C4",
+            "name": "Horizon Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "14-4522 TPX",
+            "rgb": "rgb(67,188,216)",
+            "hex": "#43BCD8",
+            "name": "Bachelor Button",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-4722 TCX",
+            "rgb": "rgb(68,187,202)",
+            "hex": "#44BBCA",
+            "name": "Capri",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-4722 TPX",
+            "rgb": "rgb(66,189,203)",
+            "hex": "#42BDCB",
+            "name": "Capri",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6339 TPX",
+            "rgb": "rgb(85,170,89)",
+            "hex": "#55AA59",
+            "name": "Vibrant Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6339 TCX",
+            "rgb": "rgb(85,168,96)",
+            "hex": "#55A860",
+            "name": "Vibrant Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "14-5721 TPG",
+            "rgb": "rgb(66,192,168)",
+            "hex": "#42C0A8",
+            "name": "Electric Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5516 TPX",
+            "rgb": "rgb(65,180,166)",
+            "hex": "#41B4A6",
+            "name": "Waterfall",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5519 TCX",
+            "rgb": "rgb(69,181,170)",
+            "hex": "#45B5AA",
+            "name": "Turquoise",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "15-5519 TPX",
+            "rgb": "rgb(69,184,172)",
+            "hex": "#45B8AC",
+            "name": "Turquoise",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "16-6444 TPG",
+            "rgb": "rgb(82,184,106)",
+            "hex": "#52B86A",
+            "name": "Poison Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "14-4530 TN",
+            "rgb": "rgb(77,198,226)",
+            "hex": "#4DC6E2",
+            "name": "Bluefish",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-1018 TCX",
+            "rgb": "rgb(52,41,42)",
+            "hex": "#34292A",
+            "name": "Ganache",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3713 TCX",
+            "rgb": "rgb(44,42,51)",
+            "hex": "#2C2A33",
+            "name": "Deep Well",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3924 TCX",
+            "rgb": "rgb(42,42,53)",
+            "hex": "#2A2A35",
+            "name": "Night Sky",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3815 TCX",
+            "rgb": "rgb(42,41,62)",
+            "hex": "#2A293E",
+            "name": "Evening Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3940 TN",
+            "rgb": "rgb(96,80,168)",
+            "hex": "#6050A8",
+            "name": "Simply Purple",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3850 TCX",
+            "rgb": "rgb(77,68,138)",
+            "hex": "#4D448A",
+            "name": "Liberty",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3850 TPX",
+            "rgb": "rgb(78,70,139)",
+            "hex": "#4E468B",
+            "name": "Liberty",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "18-3840 TPX",
+            "rgb": "rgb(100,89,162)",
+            "hex": "#6459A2",
+            "name": "Purple Opulence",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-0303 TCX",
+            "rgb": "rgb(45,44,47)",
+            "hex": "#2D2C2F",
+            "name": "Jet Black",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4005 TCX",
+            "rgb": "rgb(43,44,48)",
+            "hex": "#2B2C30",
+            "name": "Stretch Limo",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4006 TPX",
+            "rgb": "rgb(44,47,50)",
+            "hex": "#2C2F32",
+            "name": "Caviar",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4203 TCX",
+            "rgb": "rgb(47,45,48)",
+            "hex": "#2F2D30",
+            "name": "Moonless Night",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3920 TCX",
+            "rgb": "rgb(43,46,67)",
+            "hex": "#2B2E43",
+            "name": "Peacoat",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4024 TCX",
+            "rgb": "rgb(42,50,68)",
+            "hex": "#2A3244",
+            "name": "Dress Blues",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3810 TPX",
+            "rgb": "rgb(45,46,73)",
+            "hex": "#2D2E49",
+            "name": "Eclipse",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3830 TPX",
+            "rgb": "rgb(45,44,77)",
+            "hex": "#2D2C4D",
+            "name": "Astral Aura",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3933 TCX",
+            "rgb": "rgb(41,48,78)",
+            "hex": "#29304E",
+            "name": "Medieval Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4010 TCX",
+            "rgb": "rgb(44,49,61)",
+            "hex": "#2C313D",
+            "name": "Total Eclipse",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3921 TCX",
+            "rgb": "rgb(43,48,66)",
+            "hex": "#2B3042",
+            "name": "Black Iris",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3939 TCX",
+            "rgb": "rgb(45,51,89)",
+            "hex": "#2D3359",
+            "name": "Blueprint",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3940 TPX",
+            "rgb": "rgb(45,53,90)",
+            "hex": "#2D355A",
+            "name": "Blue Depths",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4005 TPX",
+            "rgb": "rgb(46,50,56)",
+            "hex": "#2E3238",
+            "name": "Stretch Limo",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4007 TPX",
+            "rgb": "rgb(45,48,54)",
+            "hex": "#2D3036",
+            "name": "Anthracite",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4013 TCX",
+            "rgb": "rgb(46,47,54)",
+            "hex": "#2E2F36",
+            "name": "Dark Navy",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4203 TPX",
+            "rgb": "rgb(46,50,53)",
+            "hex": "#2E3235",
+            "name": "Moonless Night",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4218 TCX",
+            "rgb": "rgb(45,48,54)",
+            "hex": "#2D3036",
+            "name": "Vulcan",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4305 TPX",
+            "rgb": "rgb(47,52,53)",
+            "hex": "#2F3435",
+            "name": "Pirate Black",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4010 TPX",
+            "rgb": "rgb(44,53,64)",
+            "hex": "#2C3540",
+            "name": "Total Eclipse",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4021 TCX",
+            "rgb": "rgb(44,51,62)",
+            "hex": "#2C333E",
+            "name": "Blueberry",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3920 TPX",
+            "rgb": "rgb(47,51,73)",
+            "hex": "#2F3349",
+            "name": "Peacoat",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4021 TPX",
+            "rgb": "rgb(44,54,66)",
+            "hex": "#2C3642",
+            "name": "Blueberry",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3933 TPX",
+            "rgb": "rgb(47,54,84)",
+            "hex": "#2F3654",
+            "name": "Medieval Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4122 TCX",
+            "rgb": "rgb(41,59,77)",
+            "hex": "#293B4D",
+            "name": "Moonlit Ocean",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3939 TPX",
+            "rgb": "rgb(46,53,97)",
+            "hex": "#2E3561",
+            "name": "Blueprint",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5212 TCX",
+            "rgb": "rgb(48,61,60)",
+            "hex": "#303D3C",
+            "name": "Darkest Spruce",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5350 TPX",
+            "rgb": "rgb(50,60,58)",
+            "hex": "#323C3A",
+            "name": "Scarab",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5708 TPX",
+            "rgb": "rgb(48,55,55)",
+            "hex": "#303737",
+            "name": "Jet Set",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5917 TPX",
+            "rgb": "rgb(42,66,57)",
+            "hex": "#2A4239",
+            "name": "Sycamore",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5918 TPX",
+            "rgb": "rgb(48,65,54)",
+            "hex": "#304136",
+            "name": "Mountain View",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-5406 TPX",
+            "rgb": "rgb(47,66,62)",
+            "hex": "#2F423E",
+            "name": "Pine Grove",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4028 TCX",
+            "rgb": "rgb(47,62,85)",
+            "hex": "#2F3E55",
+            "name": "Insignia Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4121 TCX",
+            "rgb": "rgb(44,64,83)",
+            "hex": "#2C4053",
+            "name": "Blue Wing Teal",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4326 TPX",
+            "rgb": "rgb(44,67,83)",
+            "hex": "#2C4353",
+            "name": "Reflecting Pond",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4033 TPX",
+            "rgb": "rgb(42,66,95)",
+            "hex": "#2A425F",
+            "name": "Poseidon",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3938 TCX",
+            "rgb": "rgb(49,61,100)",
+            "hex": "#313D64",
+            "name": "Twilight Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-3938 TPX",
+            "rgb": "rgb(48,63,102)",
+            "hex": "#303F66",
+            "name": "Twilight Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4045 TPG",
+            "rgb": "rgb(45,85,147)",
+            "hex": "#2D5593",
+            "name": "Lapis Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4050 TPG",
+            "rgb": "rgb(49,85,146)",
+            "hex": "#315592",
+            "name": "Nautical Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4056 TPX",
+            "rgb": "rgb(46,84,147)",
+            "hex": "#2E5493",
+            "name": "Blue Iolite",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-0417 TPX",
+            "rgb": "rgb(53,66,48)",
+            "hex": "#354230",
+            "name": "Kombu Green",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4906 TCX",
+            "rgb": "rgb(50,66,65)",
+            "hex": "#324241",
+            "name": "Green Gables",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4726 TCX",
+            "rgb": "rgb(39,78,85)",
+            "hex": "#274E55",
+            "name": "Atlantic Deep",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4028 TPX",
+            "rgb": "rgb(50,67,90)",
+            "hex": "#32435A",
+            "name": "Insignia Blue",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4033 TPG",
+            "rgb": "rgb(48,70,97)",
+            "hex": "#304661",
+            "name": "Poseidon",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4038 TPG",
+            "rgb": "rgb(48,71,94)",
+            "hex": "#30475E",
+            "name": "Gibraltar Sea",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4120 TPG",
+            "rgb": "rgb(46,71,98)",
+            "hex": "#2E4762",
+            "name": "Blue Opal",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4126 TCX",
+            "rgb": "rgb(41,73,92)",
+            "hex": "#29495C",
+            "name": "Deep Dive",
+            "category": "Fashion and Interior Designers"
+        },
+        {
+            "code": "19-4034 TPG",
+            "rgb": "rgb(46,74,98)",
+            "hex": "#2E4A62",
+            "name": "Sailor Blue",
+            "category": "Fashion and Interior Designers"
+        }
+    ]
+}
