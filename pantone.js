@@ -8,6 +8,7 @@ card_screen_percent = 80
 numcards = Math.floor(((width-card_size)*card_screen_percent/100)/(card_size + card_padding))
 top_bar_height = 100
 var brush, hue_bar;
+var textdiv;
 
 bar_width = 20
 bar_padding = 10
@@ -15,45 +16,117 @@ datapoints_limit = numcards * Math.floor((height - top_bar_height) / (card_size 
 selected_hue_range = [0, 255]
 selected_saturation_range = [0,1]
 selected_lightness_range = [0,1]
-let n_colors = (datapoints_limit/numcards)*(card_padding + card_size + label_height)
+let n_colors = (datapoints_limit/numcards)*(card_padding + card_size + label_height) - 100
 
 margin = {right: 50, left: 0}
+
+let show_graphic_designers = false
+let show_industrial_designers = false
+let show_fashion_designers = true
 
 svg = d3.select("body")
 	.append('svg')
 	.attr('width', width)
 	.attr('height', height)
 
-textdiv = document.createElement('div')
-textdiv.innerHTML = 'The Pantone Color Matching System is largely a standardized color reproduction system. By standardizing the colors, different manufacturers in different locations can all refer to the Pantone system to make sure colors match without direct contact with one another. '
-textdiv.innerHTML += '<br><br> This tool is meant to help you navigate the massive database of Pantone colors.'
-textdiv.innerHTML += '<br><br> <b>Brush</b> over the <b>hsl bars</b> to obtain the first ' + datapoints_limit + ' Pantone colors in the range you select. By selecting ranges on multiple bars, you will obtain the colors in the intersection of the selections.'
-textdiv.innerHTML += '<br><b>Brush</b> over the <b>Pantone cards</b> in order to visualize where the selected colors are on the hsl bars.'
-textdiv.innerHTML += '<br><br> Adjust card size: (work in progress)'
-textdiv.style.position = 'absolute'
-textdiv.style.top = top_bar_height + 'px'
-textdiv.style.right = margin.right + 'px'
-textdiv.style.maxWidth = (width - margin.right - margin.left - numcards*(card_size + card_padding) - 3*(bar_width + bar_padding) - 40) + 'px'
-textdiv.style.fontSize = 'small'
-textdiv.style.fontFamily = 'Helvetica Neue, Helvetica, Arial, sans-serif'
-document.body.append(textdiv)
 
-textdiv2 = document.createElement('div')
-textdiv2.innerHTML += '<br><br>Made with <a href="https://d3js.org/">d3</a> by <a href="https://picorana.github.io/">picorana</a>.'
-textdiv2.style.position = 'absolute'
-textdiv2.style.bottom = 20 + 'px'
-textdiv2.style.right = margin.right + 'px'
-textdiv2.style.maxWidth = (width - margin.right - margin.left - numcards*(card_size + card_padding) - 3*(bar_width + bar_padding) - 40) + 'px'
-textdiv2.style.fontSize = 'small'
-textdiv2.style.fontFamily = 'Helvetica Neue, Helvetica, Arial, sans-serif'
-document.body.append(textdiv2)
+var add_ugly_html = function(){
+	textdiv = document.createElement('div')
+	textdiv.innerHTML = ''
+	if (window.innerHeight > 900){
+		textdiv.innerHTML += 'The Pantone Color Matching System is largely a standardized color reproduction system. By standardizing the colors, different manufacturers in different locations can all refer to the Pantone system to make sure colors match without direct contact with one another. <br><br> '
+	}
+	if (window.innerHeight > 900){
+		textdiv.innerHTML += 'This tool is meant to help you navigate the massive database of Pantone colors. <br><br> '
+	}
+	textdiv.innerHTML += '<b>Brush</b> over the <b>hsl bars</b> to obtain the first ' + datapoints_limit + ' Pantone colors in the range you select. By selecting ranges on multiple bars, you will obtain the colors in the intersection of the selections.'
+	textdiv.innerHTML += '<br><b>Brush</b> over the <b>Pantone cards</b> in order to visualize where the selected colors are on the hsl bars.'
+	textdiv.innerHTML += '<br><br> Adjust card size: (work in progress)'
+	textdiv.style.position = 'absolute'
+	textdiv.style.top = top_bar_height + 'px'
+	textdiv.style.right = margin.right + 'px'
+	textdiv.style.maxWidth = (width - margin.right - margin.left - numcards*(card_size + card_padding) - 3*(bar_width + bar_padding) - 40) + 'px'
+	textdiv.style.fontSize = 'small'
+	textdiv.style.fontFamily = 'Helvetica Neue, Helvetica, Arial, sans-serif'
+
+	document.body.append(textdiv)
+
+	textdiv2 = document.createElement('div')
+	textdiv2.innerHTML += '<br><br>Made with <a href="https://d3js.org/">d3</a> by <a href="https://picorana.github.io/">picorana</a>.'
+	textdiv2.style.position = 'absolute'
+	textdiv2.style.bottom = 20 + 'px'
+	textdiv2.style.right = margin.right + 'px'
+	textdiv2.style.maxWidth = (width - margin.right - margin.left - numcards*(card_size + card_padding) - 3*(bar_width + bar_padding) - 40) + 'px'
+	textdiv2.style.fontSize = 'small'
+	textdiv2.style.fontFamily = 'Helvetica Neue, Helvetica, Arial, sans-serif'
+	
+	document.body.append(textdiv2)
+
+	boxone = document.createElement('div')
+	boxone.innerHTML = 'Collections:'
+	boxone.style.position = 'absolute'
+	boxone.style.bottom = 200 + 'px'
+	boxone.style.left = (textdiv.getBoundingClientRect().x) + 'px'
+	boxone.style.fontSize = 'small'
+	boxone.style.fontFamily = 'Helvetica Neue, Helvetica, Arial, sans-serif'
+	boxone.append(createToggle("Graphic design", 30))
+	boxone.append(createToggle("Industrial design", 50))
+	boxone.append(createToggle("Fashion design", 70))
+	document.body.append(boxone)
+}
+
+
+var createToggle = function(name, position){
+	box = document.createElement("div")
+	box.style.position = "absolute"
+	box.style.width = (textdiv.getBoundingClientRect().width) + 'px'
+	box.style.height = 50 + 'px'
+	box.style.top = position + 'px'
+
+	toggle = document.createElement("label")
+	toggle.className = "switch"
+	input = document.createElement("input")
+	input.type = "checkbox"
+	input.oninput = () => {
+		if (name == 'Fashion design') show_fashion_designers = !show_fashion_designers
+		if (name == 'Industrial design') show_industrial_designers = !show_industrial_designers
+		if (name == 'Graphic design') show_graphic_designers = !show_graphic_designers
+		draw_cards_constrained();
+	}
+	if (name == 'Fashion design') input.checked = true
+	span = document.createElement("span")
+	span.className = "slider round"
+	toggle.style.position = 'absolute'
+	
+	toggle.append(input)
+	toggle.append(span)
+	box.append(toggle)
+
+	title = document.createElement("div")
+	title.innerHTML = name
+	title.style.fontSize = 'x-small'
+	title.style.float = 'right'
+	box.append(title)
+
+	return box
+}
+
 
 d3.json('set1.json').then((data) => {
 
-	window.full_data = data['set1']
-	window.data = data['set1'].slice(0, datapoints_limit)
+	window.full_data = data['set1'].reverse()
+	window.data = data['set1']
+		.filter(d => {
+			if (d.category == "Graphic Designers" && show_graphic_designers == false) return false;
+			if (d.category == "Industrial Designers" && show_industrial_designers == false) return false;
+			if (d.category == "Fashion and Interior Designers" && show_fashion_designers == false) return false;
+			else return true;
+		})
+		.slice(0, datapoints_limit)
+		.reverse()
 
 	create_shadow()
+	add_ugly_html()
 
 	svg.append('text')
 		.attr('x', (numcards * (card_size + card_padding))/2)
@@ -67,8 +140,8 @@ d3.json('set1.json').then((data) => {
 	    .sliderBottom()
 	    .min(40)
 	    .max(400)
-	    .width(300)
-	    .ticks(6)
+	    .width((width - margin.right - margin.left - numcards*(card_size + card_padding) - 3*(bar_width + bar_padding) - 60))
+	    .ticks(4)
 	    .step(20)
 	    .default(card_size)
 	    .on('onchange', val => {
@@ -78,11 +151,10 @@ d3.json('set1.json').then((data) => {
 	    	if (card_size < 100) label_height = 0
 	    	datapoints_limit = numcards * Math.floor((height - top_bar_height) / (card_size + card_padding + label_height))
 	    	draw_cards_constrained()
-	      //d3.select('p#value-step').text(d3.format('.2%')(val));
 	    });
 
 	sliderg = svg.append('g')
-		.attr('transform', 'translate('+textdiv.getBoundingClientRect().x+', '+(textdiv.getBoundingClientRect().y + textdiv.getBoundingClientRect().height + 20 )+')')
+		.attr('transform', 'translate('+textdiv.getBoundingClientRect().x+', '+(textdiv.getBoundingClientRect().y + textdiv.getBoundingClientRect().height + 30 )+')')
 
 	sliderg.append('g')
 		.call(sliderStep)
@@ -255,7 +327,14 @@ draw_cards_constrained = function(){
 			&& (saturation > selected_saturation_range[0] && saturation < selected_saturation_range[1])
 			&& (lightness > selected_lightness_range[0] && lightness < selected_lightness_range[1])) return true
 		else return false
-	}).slice(0, datapoints_limit)
+	})
+	.filter(d => {
+		if (d.category == "Graphic Designers" && show_graphic_designers == false) return false;
+		if (d.category == "Industrial Designers" && show_industrial_designers == false) return false;
+		if (d.category == "Fashion and Interior Designers" && show_fashion_designers == false) return false;
+		else return true;
+	})
+	.slice(0, datapoints_limit)
 	draw_cards(colorset)
 }
 
@@ -298,7 +377,7 @@ cardbrushed = function(){
 	y0 = d3.event.selection[0][1]
 	x1 = d3.event.selection[1][0]
 	y1 = d3.event.selection[1][1]
-	
+
 	selected_cards = cards_container.selectAll('.pantone-card').filter((d, i) => {
 		cardx = (i%numcards)*(card_size + card_padding) + card_size/2
 		cardy = Math.floor(i/numcards)*(card_size + card_padding + cur_label_height) + (card_size + label_height)/2
@@ -337,6 +416,8 @@ draw_cards = function(data){
 	card_brush = d3.brush()
 	.extent([[0, 0], [(numcards*(card_size + card_padding)), (datapoints_limit/numcards)*(card_padding + card_size + label_height)]])
 	.on('brush end', cardbrushed)
+
+	svg.on('mousedown', cards_container.select(".brush").call(card_brush.move, null))
 
 	cards = cards_container.selectAll('.pantone-card')
 	.data(data)
@@ -392,8 +473,8 @@ draw_cards = function(data){
 		.attr('y', card_size/2)
 		.attr('class', 'hextext')
 		.attr('text-anchor', 'middle')
-		.style('color', (d, i) => {
-			if (d3.hsl(d.hex).l < 0.5) {console.log(d3.hsl(d.hex).l < 0.5); return 'white'}
+		.style('fill', (d, i) => {
+			if (d3.hsl(d.hex).l < 0.5) { return 'white' }
 			else return 'black'
 		})
 		.attr('font-family', 'Helvetica Neue, Helvetica, Arial, sans-serif')
@@ -414,6 +495,10 @@ draw_cards = function(data){
 		.style('opacity', 0.01)
 		.attr('id', (d) => d.code)
 		.text((d) => d.rgb)
+			.style('fill', (d, i) => {
+			if (d3.hsl(d.hex).l < 0.5) { return 'white' }
+			else return 'black'
+		})
 	}
 }
 
