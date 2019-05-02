@@ -16,7 +16,7 @@ datapoints_limit = numcards * Math.floor((height - top_bar_height) / (card_size 
 selected_hue_range = [0, 255]
 selected_saturation_range = [0,1]
 selected_lightness_range = [0,1]
-let n_colors = (datapoints_limit/numcards)*(card_padding + card_size + label_height) - 100
+let n_colors = (datapoints_limit/numcards)*(card_padding + card_size + label_height)
 
 margin = {right: 50, left: 0}
 
@@ -41,7 +41,7 @@ var add_ugly_html = function(){
 	}
 	textdiv.innerHTML += '<b>Brush</b> over the <b>hsl bars</b> to obtain the first ' + datapoints_limit + ' Pantone colors in the range you select. By selecting ranges on multiple bars, you will obtain the colors in the intersection of the selections.'
 	textdiv.innerHTML += '<br><b>Brush</b> over the <b>Pantone cards</b> in order to visualize where the selected colors are on the hsl bars.'
-	textdiv.innerHTML += '<br><br> Adjust card size: (work in progress)'
+	textdiv.innerHTML += '<br><br> Adjust card size:'
 	textdiv.style.position = 'absolute'
 	textdiv.style.top = top_bar_height + 'px'
 	textdiv.style.right = margin.right + 'px'
@@ -52,7 +52,7 @@ var add_ugly_html = function(){
 	document.body.append(textdiv)
 
 	textdiv2 = document.createElement('div')
-	textdiv2.innerHTML += '<br><br>Made with <a href="https://d3js.org/">d3</a> by <a href="https://picorana.github.io/">picorana</a>.'
+	textdiv2.innerHTML += '<br><br>Made with <a href="https://d3js.org/">d3</a> by <a href="https://picorana.github.io/">picorana</a>. View the <a href="https://github.com/picorana/Pantone_finder">repository</a> on github.'
 	textdiv2.style.position = 'absolute'
 	textdiv2.style.bottom = 20 + 'px'
 	textdiv2.style.right = margin.right + 'px'
@@ -73,6 +73,26 @@ var add_ugly_html = function(){
 	boxone.append(createToggle("Industrial design", 50))
 	boxone.append(createToggle("Fashion design", 70))
 	document.body.append(boxone)
+
+	textino = document.createElement('div')
+	textino.innerHTML = 'showing ' + window.data.length + ' of ' + window.full_data.filter(d => collection_filter(d)).length + ' colors'
+	textino.style.position = 'absolute'
+	textino.style.fontSize = 'small'
+	textino.style.color = '#aaa'
+	textino.style.bottom = '1%'
+	textino.style.left = ((numcards * card_size - card_size)*0.5) + 'px'
+	textino.style.fontStyle = 'italic'
+	textino.style.textAlign = 'center'
+	textino.style.fontFamily = 'Helvetica Neue, Helvetica, Arial, sans-serif'
+	document.body.append(textino)
+}
+
+
+var collection_filter = (d) => {
+	if (d.category == "Graphic Designers" && show_graphic_designers == false) return false;
+	if (d.category == "Industrial Designers" && show_industrial_designers == false) return false;
+	if (d.category == "Fashion and Interior Designers" && show_fashion_designers == false) return false;
+	else return true;
 }
 
 
@@ -105,7 +125,7 @@ var createToggle = function(name, position){
 	title = document.createElement("div")
 	title.innerHTML = name
 	title.style.fontSize = 'x-small'
-	title.style.float = 'right'
+	title.style.paddingLeft = '50px'
 	box.append(title)
 
 	return box
@@ -113,17 +133,17 @@ var createToggle = function(name, position){
 
 
 d3.json('set1.json').then((data) => {
-
 	window.full_data = data['set1'].reverse()
 	window.data = data['set1']
 		.filter(d => {
 			if (d.category == "Graphic Designers" && show_graphic_designers == false) return false;
 			if (d.category == "Industrial Designers" && show_industrial_designers == false) return false;
 			if (d.category == "Fashion and Interior Designers" && show_fashion_designers == false) return false;
+			if (d3.hsl(d.hex).l < 0.6) return false;
 			else return true;
 		})
+		.sort((a, b) => Math.random()<0.5)
 		.slice(0, datapoints_limit)
-		.reverse()
 
 	create_shadow()
 	add_ugly_html()
@@ -193,9 +213,21 @@ d3.json('set1.json').then((data) => {
 
 	hue_text = hue_bar.append('text')
 	.attr('y', -10 )
+	.attr('x', bar_width/2)
+	.attr('class', 'top_hue')
+	.attr('text-anchor', 'middle')
 	.attr('font-family', 'Helvetica Neue, Helvetica, Arial, sans-serif')
 	.attr('font-size', 'small')
-	.text(0)	
+	.text('0')	
+
+	hue_text_bottom = hue_bar.append('text')
+	.attr('y', n_colors + 20)
+	.attr('x', bar_width/2)
+	.attr('class', 'bottom_hue')
+	.attr('text-anchor', 'middle')
+	.attr('font-family', 'Helvetica Neue, Helvetica, Arial, sans-serif')
+	.attr('font-size', 'small')
+	.text('255')
 
 	hue_bar.selectAll('rect')
 		.data(color_array)
@@ -222,9 +254,21 @@ d3.json('set1.json').then((data) => {
 
 	saturation_text = saturation_bar.append('text')
 	.attr('y', -10 )
+	.attr('x', bar_width/2)
+	.attr('text-anchor', 'middle')
+	.attr('class', 'top_saturation')
 	.attr('font-family', 'Helvetica Neue, Helvetica, Arial, sans-serif')
 	.attr('font-size', 'small')
-	.text(0)
+	.text('1')
+
+	saturation_text_bottom = saturation_bar.append('text')
+	.attr('y', n_colors + 20)
+	.attr('x', bar_width/2)
+	.attr('class', 'bottom_saturation')
+	.attr('text-anchor', 'middle')
+	.attr('font-family', 'Helvetica Neue, Helvetica, Arial, sans-serif')
+	.attr('font-size', 'small')
+	.text('0')
 
     saturation_bar.selectAll('rect')
 		.data(color_array)
@@ -250,9 +294,21 @@ d3.json('set1.json').then((data) => {
 
 	lightness_text = lightness_bar.append('text')
 	.attr('y', -10 )
+	.attr('x', bar_width/2)
+	.attr('text-anchor', 'middle')
+	.attr('class', 'top_lightness')
 	.attr('font-family', 'Helvetica Neue, Helvetica, Arial, sans-serif')
 	.attr('font-size', 'small')
 	.text(0)
+
+	lightness_text_bottom = lightness_bar.append('text')
+	.attr('y', n_colors + 20)
+	.attr('x', bar_width/2)
+	.attr('text-anchor', 'middle')
+	.attr('class', 'bottom_lightness')
+	.attr('font-family', 'Helvetica Neue, Helvetica, Arial, sans-serif')
+	.attr('font-size', 'small')
+	.text(1)
 
     lightness_bar.selectAll('rect')
 		.data(color_array)
@@ -291,19 +347,24 @@ brushed = function(p, type='none'){
 		hue_bar.selectAll('rect').filter(r => y0 < y1? (r < y1 && r > y0):(r > y1 && r < y0))
 			.attr('fill', (d, i) => set_hue_bar_color(d))	
 		hue_text.text(Math.floor(y0* 255/n_colors))
+		hue_text_bottom.text(Math.floor(y1* 255/n_colors))
 	} else if (type == 'saturation'){
 		saturation_bar.selectAll('rect').filter(r => r < n_colors)
 			.attr('fill', (d, i) => set_saturation_bar_color(i, l=-0.2, h=-0.2))
 		saturation_bar.selectAll('rect').filter(r => y0 < y1? (r < y1 && r > y0):(r > y1 && r < y0))
 			.attr('fill', (d, i) => set_saturation_bar_color(d))	
 		saturation_text.text(Math.floor(y0*100/n_colors)/100)
+		saturation_text_bottom.text(Math.floor(y1*100/n_colors)/100)
 	} else if (type == 'lightness'){
+		y0 = y0-50
+		y1 = y1-50
 		lightness_bar.selectAll('rect').filter(r => r < n_colors)
 			.attr('fill', (d, i) => set_lightness_bar_color(i, h=-0.5, s=-0.2))
 		lightness_bar.selectAll('rect').filter(r => y0 < y1? (r < y1 && r > y0):(r > y1 && r < y0))
 			.attr('fill', (d, i) => set_lightness_bar_color(d))	
 
 		lightness_text.text(Math.floor(y0*100/n_colors)/100)
+		lightness_text_bottom.text(Math.floor(y1*100/n_colors)/100)
 	}
 	
 	// filter cards!
@@ -334,7 +395,12 @@ draw_cards_constrained = function(){
 		if (d.category == "Fashion and Interior Designers" && show_fashion_designers == false) return false;
 		else return true;
 	})
-	.slice(0, datapoints_limit)
+
+	if (colorset.length > datapoints_limit) textino.innerHTML = 'showing ' + datapoints_limit + ' of ' + colorset.length + ' colors'
+	else textino.innerHTML = 'showing ' + colorset.length + ' of ' + colorset.length + ' colors'
+	
+	colorset = colorset.slice(0, datapoints_limit)
+
 	draw_cards(colorset)
 }
 
